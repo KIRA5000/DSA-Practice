@@ -1,0 +1,3 @@
+D:/C++ Practice/build/CMakeFiles/Test.dir
+D:/C++ Practice/build/CMakeFiles/ALL_BUILD.dir
+D:/C++ Practice/build/CMakeFiles/ZERO_CHECK.dir
